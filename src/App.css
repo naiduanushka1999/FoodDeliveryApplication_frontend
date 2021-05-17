@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.footer {
+  position:fixed;
+  bottom:0;
+  width:100%;
+  height: 50px;
+  background-color:cornsilk;
+  text-align: center;
+  color: black;
+}
+
+.timer{
+  text-align:center;
+  
+}
+
+mark{
+color:darkgreen;
+}
+.rowprice{
+  color:white;
+}
+.brownback{
+  background-image: url('./Images/lightimg.jpg');
+}
+hr{
+  height: 4px;
+  background-color:white;
+}
+
+.titleofapp{
+  color: darkcyan;
+}
+
+.adminservice{
+  font-size:large;
+  color: darkcyan;
+  text-align: center;
+}
+
+.adservices{
+  background-image: url('Images/blackimg.jpg');
+}
+.backimg{
+  background-image: url('Images/allfood.jpg');
+}
+
+.project{
+  background-image: url('Images/food2img.jpg');
+}
+.navbar-default{
+  background-color: cornsilk;
+}
+#collasible-nav-dropdown{
+  color: darkcyan;
+  
+ 
+
+  
+}
+#responsive-navbar-nav{
+padding-left: 100px;
+}
+
+ClipLoader{
+  display:flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.errorMessage {
+  color: white;
+  font-size:medium;
+  display: relative;
+}
+
+
+

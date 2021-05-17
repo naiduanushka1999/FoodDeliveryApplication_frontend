@@ -1,0 +1,6 @@
+projectKey=FDA
+serverUrl=http://localhost:9005
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:9005/dashboard?id=FDA
+ceTaskId=AXlMHA9NvlZcvJ1QJmsr
+ceTaskUrl=http://localhost:9005/api/ce/task?id=AXlMHA9NvlZcvJ1QJmsr
